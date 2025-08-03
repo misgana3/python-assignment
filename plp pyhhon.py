@@ -1,5 +1,5 @@
 
->>> #Simple_calculator_progr
+>>> #Simple_calculator_program
 ... num1 = float(input("Enter the first number: "))
 ... num2 = float(input("Enter the second number: "))
 ... operation = input("Choose an operation (+, -, *, /): ")
@@ -21,4 +21,5 @@
 ...         print("Error: Division by zero is not allowed.")
 ... else:
 ...     print("Invalid operation. Please choose +, -, *, or /.")
+
 
